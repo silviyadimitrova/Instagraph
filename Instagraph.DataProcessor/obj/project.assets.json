@@ -4877,11 +4877,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.DataProcessor\\Instagraph.DataProcessor.csproj",
+      "projectUniqueName": "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.DataProcessor\\Instagraph.DataProcessor.csproj",
       "projectName": "Instagraph.DataProcessor",
-      "projectPath": "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.DataProcessor\\Instagraph.DataProcessor.csproj",
+      "projectPath": "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.DataProcessor\\Instagraph.DataProcessor.csproj",
       "packagesPath": "C:\\Users\\Silviya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.DataProcessor\\obj\\",
+      "outputPath": "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.DataProcessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4900,11 +4900,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.Data\\Instagraph.Data.csproj": {
-              "projectPath": "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.Data\\Instagraph.Data.csproj"
+            "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.Data\\Instagraph.Data.csproj": {
+              "projectPath": "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.Data\\Instagraph.Data.csproj"
             },
-            "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.Models\\Instagraph.Models.csproj": {
-              "projectPath": "C:\\Users\\Silviya\\Desktop\\Проекти за качване в гит\\DataBases\\Instagraph\\Instagraph.Models\\Instagraph.Models.csproj"
+            "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.Models\\Instagraph.Models.csproj": {
+              "projectPath": "D:\\Software Engineering\\SOFTUNI\\Module III. DB Fundamentals - MS SQL Server\\2. Exams\\ExamPreparation1\\Instagraph\\Instagraph.Models\\Instagraph.Models.csproj"
             }
           }
         }
